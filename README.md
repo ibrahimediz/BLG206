@@ -1,14 +1,9 @@
-<html>
-    <head>
-        
-    </head>
-    <body>
+
         <table align="left" border="1" cellpadding="1" cellspacing="1" style="width:1108px">
 
                 <tr>
                     <td  style="width: 847px; text-align: left;"><a href="https://medium.com/@sadikklc/ipv6-nedir-ipv6ya-neden-geçiş-yapıyoruz-ipv6-adres-çeşitleri-dhcpv6-nasıl-çalışır-4644f6a52f7">DHCPv6 yapılandırması</a></td>
                 </tr>
-            <tbody>
                 <tr>
                     <td style="width:847px"><a href="https://medium.com/@alisanyildiz/a%C4%9F-tasar%C4%B1m%C4%B1-network-design-70faec481971">Network Design with GPT4,GPT3.5,GPT3</a>&nbsp;</td>
                 </tr>
@@ -72,7 +67,4 @@
                 <tr>
                     <td style="width:847px"><a href="https://medium.com/@kubra.ssman23/ethernet-1ed46adb158d">Ethernet,Fast Ethernet,Gigabit Ethernet</a></td>
                 </tr>
-            </tbody>
         </table>
-    </body>
-</html>
