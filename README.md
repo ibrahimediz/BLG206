@@ -66,4 +66,7 @@
                 <tr>
                     <td style="width:847px"><a href="https://medium.com/@kubra.ssman23/ethernet-1ed46adb158d">Ethernet,Fast Ethernet,Gigabit Ethernet</a></td>
                 </tr>
+  <tr>
+			<td style="width:847px"><a href="https://medium.com/@aliogul06/network-erişim-kontrolü-nac-92455913d1fb">NAC</a></td>
+		</tr>
        </table>
