@@ -1,10 +1,5 @@
 # BLG206
-<html>
-    <head>
-        
-    </head>
-    <body>
-        <table align="left" border="1" cellpadding="1" cellspacing="1" style="width:1108px">
+<table align="left" border="1" cellpadding="1" cellspacing="1" style="width:1108px">
             <caption>Medium Makale Listesi</caption>
             <thead>
                 <tr>
@@ -77,5 +72,3 @@
                 </tr>
             </tbody>
         </table>
-    </body>
-</html>
